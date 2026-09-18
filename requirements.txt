@@ -1,0 +1,18 @@
+# core
+torch==2.2.2
+transformers==4.44.2
+datasets==2.21.0
+
+# classical ML + data
+scikit-learn==1.5.2
+pandas==2.2.3
+numpy==1.26.4
+
+# plots (notebook only)
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# serving
+fastapi==0.115.0
+uvicorn==0.30.6
+pydantic==2.9.2

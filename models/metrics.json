@@ -1,0 +1,1 @@
+{"baseline": {"accuracy": 0.8925, "macro_f1": 0.8920669827397003}, "distilbert": {"accuracy": 0.91, "macro_f1": 0.9100371896620886}}
